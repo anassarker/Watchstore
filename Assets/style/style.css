@@ -181,3 +181,99 @@ small{
     margin: 12px 0;
     color: #777;
 }
+.testimonial .col-3 h3{
+    font-weight: 600;
+    color: #555;
+    font-size: 16px;
+}
+.brands{
+    margin: 100px auto;
+}
+.col-5{
+    width: 160px;
+}
+.col-5 img{
+    width: 200px;
+    height: 150px;
+    filter: grayscale(100%);
+}
+.col-5 img:hover{
+    filter: grayscale(0);
+}
+.footer{
+    justify-content: center;
+    background: black;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 60px 0 20px;
+}
+.footer-col-1 h3{
+    margin-left: -5px;
+    margin-right: 40px;
+}
+.footer-col-1 p{
+    margin-left: -5px;
+    margin-right: 40px;
+}
+.footer-col-2 img{
+    width: 400px;
+    height: 160px;
+}
+.footer-col-3{
+    align-items: center;
+    margin-left: 70px;
+}
+.footer-col-3 ul li:hover{
+    color: green;
+    transition: .2s;
+    cursor: pointer;
+}
+.footer-col-3 ul li{
+    list-style: none;
+}
+.footer-col-3 h3{
+    margin-left: -20px;
+}
+.footer-col-4{
+    align-items: center;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.footer-col-4 ul li{
+    list-style: none;
+}
+.footer-col-4 ul li a:hover{
+    color: rgb(247, 9, 9);
+    transition: .2s;
+}
+.footer-col-4 h3{
+    margin-left: -10px;
+}
+.footer p{
+    color: #8a8a8a;
+}
+.footer h3{
+    color: white;
+    margin-bottom: 20px;
+}
+.app-logo img{
+    margin-left: -30px;
+    width: 450px;
+    height: 80px;
+}
+.footer hr{
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
+.copyright{
+    text-align: center;
+}
+.menu-icon{
+    width:30px;
+    height:30px;
+    margin-left: 15px;
+    cursor: pointer;
+}
